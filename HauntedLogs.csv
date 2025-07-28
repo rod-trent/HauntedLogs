@@ -1,0 +1,23 @@
+EventID,Timestamp,GhostType,HauntLevel,Description
+1,2023-10-31 23:59:00,Duplicate,5,Creaking door in the attic
+1,2023-10-31 23:59:00,Duplicate,5,Creaking door in the attic
+2,2023-11-01 00:01:00,Null,,
+3,2023-11-01 00:05:00,Corrupted,-13,Floating orbs? Or data error?
+4,2023-11-01 00:10:00,Boo-lean,3,Is the ghost real? True... or false?
+5,2023-11-01 00:15:00,Duplicate,7,Ghostly whispers in the hall
+5,2023-11-01 00:15:00,Duplicate,7,Ghostly whispers in the hall
+6,2023-11-01 00:20:00,Null,,
+7,2023-11-01 00:25:00,Corrupted,666,Blood on the walls... wait, that's just red ink
+8,2023-11-01 00:30:00,Boo-lean,2,Poltergeist activity: Objects moving on their own
+9,2023-11-01 00:35:00,Duplicate,4,Shadow figure in the mirror
+9,2023-11-01 00:35:00,Duplicate,4,Shadow figure in the mirror
+10,2023-11-01 00:40:00,Null,,
+11,2023-11-01 00:45:00,Boo-lean,6,Flickering lights in the basement
+12,2023-11-01 00:50:00,Corrupted,-5,Impossible shadow movement
+13,2023-11-01 00:55:00,Duplicate,8,Cold spot in the library
+13,2023-11-01 00:55:00,Duplicate,8,Cold spot in the library
+14,2023-11-01 01:00:00,Null,,
+15,2023-11-01 01:05:00,Boo-lean,4,Unexplained footsteps on stairs
+16,2023-11-01 01:10:00,Corrupted,999,Haunted portrait eyes following
+17,2023-11-01 01:15:00,Duplicate,3,Phantom piano notes
+17,2023-11-01 01:15:00,Duplicate,3,Phantom piano notes
